@@ -1,0 +1,10 @@
+Microsoft Windows [Version 10.0.22621.1702]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\JanB>
+C:\Users\JanB>
+C:\Users\JanB> with open (filie, 'r' as a:
+'with' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\JanB> with open (filie, 'class 1' as a: data_a = a.read(class 2)
